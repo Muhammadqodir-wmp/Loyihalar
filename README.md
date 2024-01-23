@@ -1,0 +1,2 @@
+# Loyihalar
+ Loyihalar mavjud
