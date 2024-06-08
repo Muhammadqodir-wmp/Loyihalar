@@ -1,1 +1,0 @@
-﻿INSERT INTO `taomlar` VALUES (1,'Palov',20000,1);
