@@ -1,0 +1,72 @@
+Web-server ...  A) Fayllarni saqlaydi va ularni mijozlarga yetkazadi  B) Ma'lumotlarni tahlil qiladi  C) Grafik dizayn yaratadi  D) Tarmoq uskunalari bilan ishlaydi  ;A
+Foydalanuvchi so‘rovlarni veb brauzer, mobil telefon vositasida http/https protokoli orqali yuborovchi qurilma ?  A) Server  B) Brouzer  C) Switch  D) Router  ;B
+Domen ...  A) Internet manzili  B) Elektron pochta  C) IP manzil  D) DNS tizimi ;A
+Xosting ... A) Veb-saytlarni saqlash xizmati  B) IP manzilni ko'rsatish  C) Tarmoqni boshqarish  D) Grafik dizayn yaratish  ;A
+Web server dasturiy ta'minotlariga ....  A) Apache  B) Photoshop  C) Microsoft Word  D) MySQL  ;A
+Brouzerlarni qatorini tanlang?  A) Internet Explorer, Google Chrome, Safari  B) Microsoft Word, Excel, PowerPoint  C) Photoshop, Illustrator, InDesign  D) Notepad, Vim, Nano  ;A
+... web-sahifalarni yaratishga mo‘ljallangan standart belgilash tili hisoblanadi  A) CSS  B) HTML  C) JavaScript  D) SQL  ;B
+HTML elementlari ...  A) Grafika yaratish uchun  B) Sahifalardagi kontentni belgilash uchun  C) Ma'lumotlar bazasini boshqarish uchun  D) Tarmoqni boshqarish uchun  ;B
+HTTP - ? A) Fayllarni uzatish protokoli  B) Ma'lumotlarni tahlil qilish tizimi  C) Veb-sahifalarni ko'rish protokoli  D) IP manzillarini boshqarish tizimi  ;C
+Uniform Resource Identifier . . . A) Yagona resurs manzili  B) Fayllarni uzatish xizmati  C) Elektron pochta xizmati  D) Internet protokoli  ;A
+Uniform Resource Locators . . .  A) Resurslarning aniq manzilini ko'rsatuvchi URL  B) Ma'lumotlar bazasi  C) Tarmoqni boshqarish tizimi  D) Elektron pochta xizmati  ;A
+FTP ...  A) Fayllarni uzatish protokoli  B) Grafik dizayn  C) Matn tahrirlash  D) Tarmoqni boshqarish  ;A
+... axborot yoki xabar paketlar deb ataluvchi bo‘laklarga ajratib chiqiladi, bu paketlar kerakli manzilga yetkaziladi va u yerda paketlar qayta yig‘ilib, jo‘natilgan axborot yoki xabar tiklash vazifasini bajaradi.  A) TCP/IP  B) FTP  C) HTTP  D) SMTP  ;A
+Statik web ilova ...  A) Ma'lumotlar dinamik ravishda yangilanadi  B) Har doim bir xil mazmunni ko'rsatadi  C) Foydalanuvchi ma'lumotlarini saqlaydi  D) Ma'lumotlar bazasidan foydalanadi  ;B
+Dinamik web ilova ... A) Har doim bir xil mazmunni ko'rsatadi  B) Ma'lumotlar bazasidan foydalanmaydi  C) Foydalanuvchi ma'lumotlarini saqlaydi va yangilaydi  D) Faqat matnli ma'lumotlar bilan ishlaydi  ;C
+Tashkilot yoki muassasa elektron xizmatlarining yagona shaklda birlashtirilishi orqali hosil qilinadigan web sahifa turi?  A) Blog  B) Portfel sahifasi  C) Portal  D) Landing sahifa  ;C
+CMS tizimlarni sanang.  A) WordPress, Joomla, Drupal  B) Windows, Linux, MacOS  C) Apache, Nginx, IIS  D) HTML, CSS, JavaScript  ;A
+Structure query language ... A) Veb sahifalarni yaratadi  B) Ma'lumotlar bazasini boshqaradi  C) Grafik dizayn yaratadi  D) Tarmoqni boshqaradi ;B
+Strukturalangan so'rovlar tilining boshqarish tizimlar qatorini toping  A) MySQL, PostgreSQL, Oracle  B) HTML, CSS, JavaScript  C) Windows, Linux, MacOS  D) Apache, Nginx, IIS  ;A
+Juft, juft bo'lmagan va maxsus ...  A) Fayllar  B) Raqamlar  C) Xatolar  D) So'zlar ; B
+WEB SAYT...  A) Ma'lumotlarni chop etish usuli  B) Internetda joylashgan veb sahifa yoki bir nechta bog'langan veb sahifalar to'plami  C) Grafik dizayn yaratish vositasi  D) Faqat matnli ma'lumotlarni ko'rsatadi  ;B
+HTML TEGI QANDAY TURLARI BOR?  A) Fayl teglari  B) Matn teglari, multimedia teglari, form teglari  C) Kompyuter teglari  D) Grafik teglari  ;B
+CHECKBOX NING QANDAY XUSUSIYATLARI BOR?  A) Faqat bitta qiymat tanlanadi  B) Bir nechta qiymatlar tanlanishi mumkin  C) Faqat matnli qiymatlarni saqlaydi  D) Tasvirlarni ko'rsatadi ;B
+HTML TANASI QAYSI TEG BILAN IFODALANADI?  A) <head>  B) <body>  C) <title>  D) <html>  ;B
+HTML SAHIFANING SARLAVHA TEGI QAYSI?  A) <head>  B) <body>  C) <title>  D) <html>  ;C
+HTML DA CSS BERISHNING INTERNAL USULI QAYERGA YOZILADI?  A) <body> tegiga  B) <style> tegiga  C) <head> tegiga  D) <html> tegiga  ;B
+HTML CSS QAYSI TEG YORDAMIDA QO’LLANILADI?  A) <style>  B) <script>  C) <meta>  D) <link>  ;A
+HTML HUJJAT BODY TEGI ORQALI SAHIFANING FONINI BILDIRUVCHI ATRIBUT?  A) color  B) background  C) bgcolor  D) font ;C
+SCRIPT TEGINING KO’RINISHI TANLANG  A) <script src="path/to/file.js"></script>  B) <script path="file.js"></script>  C) <script link="file.js"></script>  D) <script file="file.js"></script>  ;A
+CGI KENGAYTMASI QANDAY?  A) Common Gateway Interface  B) Central Graphic Interface  C) Common Graphic Interface  D) Central Gateway Interface  ;A
+Saxifa fon rangi to`g'ri aniqlangan variantni tanlang !  A) `<body bgcolor="blue">`    B) `<body color="blue">`     C) `<body background="blue">`     D) `<body bg="blue">`  ;A
+Saxifa fon rasmi to`g'ri aniqlangan variantni tanlang !  A) `<body background="image.jpg">`     B) `<body bgcolor="image.jpg">`     C) `<body bg="image.jpg">`     D) `<body color="image.jpg">`     ;A
+HTML da abzas qaysi deskriptor yordamida belgilanadi ?   A) `<div>`    B) `<span>`   C) `<p>`    D) `<br>` ;C
+HTML da qaysi deskriptor matnni yangi satrga o`tkazadi ?  A) `<div>`    B) `<span>`    C) `<p>`    D) `<br>` ;D
+Matn quyuq ( qalinlashtirilgan ) shriftda yozilishi uchun qaysi deskriptordan foydalaniladi ?   A) `<i>`    B) `<u>`    C) `<strong>`    D) `<em>` ;C
+Matn og'ma ( kursiv) shriftda yozilishi uchun qaysi deskriptordan foydalaniladi ?  A) `<i>`   B) `<b>`    C) `<u>`   D) `<strong>` ;A
+Teglardan qaysi biri tartiblanmagan ruyxatlarni yaratish imkonini beradi ?  A) `<ol>`     B) `<li>`    C) `<dl>`   D) `<ul>` ;D
+Teglardan qaysi biri tartiblangan ruyxatlarni yaratish imkonini beradi? A) `<ul>`     B) `<li>`     C) `<dl>`     D) `<ol>`   ;D
+BODY tegining qaysi atributi matn rangini o`zgartirishga imkon beradi?   A) `color`     B) `text`     C) `bgcolor`     D) `background`  ;B
+Qaysi teg HTML-xujjatga tasvir qo`yish imkonini beradi?  A) `<picture>`    B) `<img>`     C) `<image>`      D) `<figure>`  ;B
+<IMG> tegining qaysi atributi tasvir va matn orasidagi vertikal masofani aniqlaydi ?    A) `alt`     B) `vspace`      C) `hspace`      D) `src` ;B
+Qaysi teglar tasvirdan foydalanishga imkon bermaydi?    A) `<img>`      B) `<figure>`      C) `<picture>`      D) `<text>`  ;D
+HTML-xujjatga tasvirni quyish qaysi misolda to`g'ri ko`rsatilgan     A) `<img src="image.jpg" alt="Description">`     B) `<image src="image.jpg" alt="Description">`      C) `<img link="image.jpg" alt="Description">`      D) `<picture src="image.jpg" alt="Description">` ;A
+Qaysi atribut <AREA> tegiga tegishli ?    A) `coords`      B) `src`      C) `href`      D) `alt`  ;A
+Jadval qaysi teglar yordamida tavsiflanadi?    A) `<div>, <span>, <table>`      B) `<table>, <tr>, <td>`      C) `<ul>, <ol>, <li>`      D) `<table>, <th>, <img>` ;B
+Jadval uchun fon tasviri qanday beriladi?    A) `<table background="image.jpg">`      B) `<table bg="image.jpg">`      C) `<table color="image.jpg">`    D) `<table img="image.jpg">`   ;A
+Jadval uchun fon rangi qanday beriladi?  A) `<table bg="red">`    B) `<table color="red">`      C) `<table bgcolor="red">`      D) `<table background="red">`   ;C
+TABLE tegining BORDER atributi nima ish bajaradi ?    A) Jadvalga chekka chiziq qo'shadi      B) Jadvalning rangini o'zgartiradi      C) Jadvalning kengligini o'zgartiradi      D) Jadvalning balandligini o'zgartiradi  ;A
+TABLE tegining BGCOLOR atributi nima ish bajaradi?     A) Jadval matnining rangini o'zgartiradi      B) Jadvalning fon rangini o'zgartiradi      C) Jadvalning kengligini o'zgartiradi     D) Jadvalning balandligini o'zgartiradi      ;B
+TD tegining BACKGROUND atributi nima ish bajaradi?    A) Katakcha matnining rangini o'zgartiradi      B) Katakchaning fon tasvirini o'zgartiradi      C) Katakchaning kengligini o'zgartiradi      D) Katakchaning balandligini o'zgartiradi   ;B
+TR tegining BACKGROUND atributi nima ish bajaradi?    A) Qator matnining rangini o'zgartiradi      B) Qatorning fon tasvirini o'zgartiradi      C) Qatorning kengligini o'zgartiradi      D) Qatorning balandligini o'zgartiradi  ;B
+Qaysi jadvalda katakchalar orasidagi masofa 20 pikselni tashkil qiladi?    A) `<table cellspacing="20">`      B) `<table cellpadding="20">`      C) `<table border="20">`      D) `<table spacing="20">`  ;A
+Jadvalning katakchasi uchun fon rangi qanday beriladi?    A) `<td color="red">`      B) `<td bg="red">`     C) `<td bgcolor="red">`      D) `<td background="red">`     ;C
+Jadvalning katakchasidagi matnni joylashtirish uchun qaysi atribut foydalaniladi?    A) `align`     B) `transfrom`      C) `justify`      D) `position` ;A
+TABLE tegining BACKGROUND atributi nimani aniqlaydi?   A) Jadvalning chekka chizig'ini      B) Jadvalning fon tasvirini      C) Jadvalning kengligini      D) Jadvalning balandligini    ;B
+Web sahifa yaratishda HTML tilidagi quyidagi tegning ma'nosi nima? `<p>`    A) Abzas      B) Matnni qalinlashtirish      C) Matnni kursivga o'tkazish      D) Yangi satrga o'tkazish     ;A
+Web sahifa yaratishda HTML tilidagi quyidagi tegning ma'nosi nima? `<h1>-<h6>`   A) Rasm qo'shish     B) Havola yaratish      C) Sarlavha darajalari      D) Matnni qalinlashtirish  ;C
+Web sahifa yaratishda HTML tilidagi quyidagi tegning ma'nosi nima? `<hr>`    A) chiziq      B) Sarlavha      C) Rasm      D) Matnni kursivga o'tkazish   ;A
+TO'LIQ BO'LMAGAN SHAKLDAGI HUJJATLARGA GIPERMATN HALOVALARI UCHUN ASOSIY URL MANZILINI QAYSI TEGI ANIQLAYDI?   A) `<meta>`     B) `<base>`     C) `<link>`     D) `<script>`  ;B
+HUJJATNI FOYDALANISHNI FOYDALANGAN SO‘NGNI SAQLASHNI TAQIQ QILISH MUMKIN...  A) `readonly`    B) `disabled`     C) `save="false"`     D) `nosave`  ;B
+GIPERMUROJAAT NOTO’G’RI KO’RSATILGAN JAVOB QAYSI?   A) `<a href="https://example.com">Example</a>`     B) `<a link="https://example.com">Example</a>`     C) `<a href="example.com">Example</a>`     D) `<a href="/path/to/page">Example</a>`  ;B
+HTML HUJJARGA CSS NI ULASH QAYSI JAVOBDA TO’G’RI KO’RSATILGAN?   A) `<style src="styles.css"></style>`     B) `<link rel="stylesheet" type="text/css" href="styles.css">`     C) `<css link="styles.css"></css>`   D) `<stylesheet src="styles.css"></stylesheet>`   ;B
+SAHIFANING FONINI QAYSI JAVOBDA TO’G’RI KO’RSATILGAN?   A) `<body background="background.jpg">`     B) `<body bg="background.jpg">`     C) `<body image="background.jpg">`     D) `<body color="background.jpg">`  ;A
+TARTIBLANGAN RO’YXAT TEGI QAYSI?   A) `<ul>`     B) `<ol>`     C) `<li>`     D) `<dl>`    ;B
+GIPERMUROJAAT TO’G’RI KO’RSATILGAN JAVOB QAYSI?  A) `<a href="https://example.com">Example</a>`     B) `<a src="https://example.com">Example</a>`     C) `<a link="https://example.com">Example</a>`     D) `<a url="https://example.com">Example</a>`  ;A
+GIPERMUROJAAT QAYSI XUSUSIYATI FOYDALANUVCHI KIRGANDA RANGI O’ZGARADI?   A) `target`     B) `visited`     C) `hover`     D) `active`  ;B
+BO’SH JOY BELGISI TO’G’RI KO’RSATING?  A) `&space`    B) `&nbsp`     C) `&blank`     D) `&ensp`  ;B
+“\N” QANDAY MA’NO ANGLATADI?    A) Bo'sh joy      B) Yangi qatordan boshlash      C) Qayta joylash     D) Tugash  ;B
+GIPERMUROJAAT QAYSI XUSUSIYATI FOYDALANUVCHI KIRIB BO’LGANDAN KEYIN RANGI O’ZGARADI?    A) `target`      B) `visited`      C) `hover`      D) `active`  ;B
+<UL TYPE=DISK> NATIJASI QANDAY?    A) Kvadrat belgilari bilan ro'yxat      B) Doira belgilari bilan ro'yxat      C) Disk belgilari bilan ro'yxat      D) Raqamli ro'yxat  ;C
+FORMANING METHOD ATRIBUTI QANDAY XUSUSIYATLARI BOR?    A) `get` va `post`    B) `submit` va `reset`     C) `send` va `receive`    D) `input` va `output` ;A
+TEXTAREA ATRIBUTLARI?    A) `rows`, `cols`, `maxlength`     B) `width`, `height`, `maxlength`      C) `size`, `maxlength`, `height`      D) `rows`, `width`, `size`  ;A
